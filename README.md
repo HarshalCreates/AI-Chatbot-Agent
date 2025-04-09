@@ -1,4 +1,4 @@
-# 🤖 LangGraph AI Chatbot Agent
+# 🤖 AI Chatbot Agent
 
 A full-stack AI chatbot system using **LangGraph**, powered by **LLMs from Groq/OpenAI** and enhanced with **Tavily search**. This project features a real-time Streamlit frontend and a FastAPI backend for smooth, scalable, agent-driven interactions.
 
